@@ -5,7 +5,7 @@ Mobile Application to add tasks with description.\
 The Task has 3 states :- 
 - Inprogress state 
 - Done state
-- ToDo state
+- ToDo state\
 you can edit or remove the task from any state, that all saved in NSUserDefults.
 
 
